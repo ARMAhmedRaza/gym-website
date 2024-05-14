@@ -24,7 +24,7 @@ export default function Home() {
             />
           </div>
           <nav>
-            <ul className=" flex items-center lg:gap-x-10 gap-x-5 text-xs p-2 ">
+            <ul className=" flex items-center lg:gap-x-10 gap-x-5 lg:text-lg text-xs p-2 ">
               <li className=" text-white cursor-pointer hover:underline">
                 Advantages
               </li>
