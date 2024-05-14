@@ -118,7 +118,7 @@ export default function Home() {
         </div>
         <div className="grid lg:gap-20 gap-10 lg:grid-cols-3 md:grid-cols-2">
           <div className="bg-gray-800 w-full rounded-lg text-center flex flex-col relative h-60  hover:bg-gray-900">
-            <span className=" font-bold text-white mt-4   ">'Pass Trail' </span>
+            <span className=" font-bold text-white mt-4   ">Pass Trail </span>
             <span className=" font-bold text-white ">$ 0 </span>
             <div className="h-0.5 mt-2 bg-black"></div>
             <div className="p-2 flex flex-col gap-2 items-center justify-center  ">
@@ -143,7 +143,7 @@ export default function Home() {
             </div>
           </div>
           <div className="bg-gray-800 w-full rounded-lg text-center flex flex-col relative h-60  hover:bg-gray-900">
-            <span className=" font-bold text-white mt-4   ">'Pass Trail' </span>
+            <span className=" font-bold text-white mt-4   ">Pass Trail </span>
             <span className=" font-bold text-white ">$ 0 </span>
             <div className="h-0.5 mt-2 bg-black"></div>
             <div className="p-2 flex flex-col gap-2 items-center justify-center ">
@@ -168,7 +168,7 @@ export default function Home() {
           </div>
 
           <div className="bg-gray-800 w-full rounded-lg text-center flex flex-col relative h-60 hover:bg-gray-900">
-            <span className=" font-bold text-white mt-4   ">'Pass Trail' </span>
+            <span className=" font-bold text-white mt-4   ">Pass Trail </span>
             <span className=" font-bold text-white ">$ 0 </span>
             <div className="h-0.5 mt-2 bg-black"></div>
             <div className="p-2 flex flex-col gap-2 items-center justify-center ">
@@ -193,7 +193,7 @@ export default function Home() {
           </div>
 
           <div className="bg-gray-800 w-full rounded-lg text-center flex flex-col relative h-60  hover:bg-gray-900">
-            <span className=" font-bold text-white mt-4   ">'Pass Trail' </span>
+            <span className=" font-bold text-white mt-4   ">Pass Trail </span>
             <span className=" font-bold text-white ">$ 0 </span>
             <div className="h-0.5 mt-2 bg-black"></div>
             <div className="p-2 flex flex-col gap-2 items-center justify-center ">
@@ -217,7 +217,7 @@ export default function Home() {
             </div>
           </div>
           <div className="bg-gray-800 w-full rounded-lg text-center flex flex-col relative h-60  hover:bg-gray-900">
-            <span className=" font-bold text-white mt-4   ">'Pass Trail' </span>
+            <span className=" font-bold text-white mt-4   ">Pass Trail </span>
             <span className=" font-bold text-white ">$ 0 </span>
             <div className="h-0.5 mt-2 bg-black"></div>
             <div className="p-2 flex flex-col gap-2 items-center justify-center ">
@@ -241,7 +241,7 @@ export default function Home() {
             </div>
           </div>
           <div className="bg-gray-800 w-full rounded-lg text-center flex flex-col relative h-60  hover:bg-gray-900">
-            <span className=" font-bold text-white mt-4   ">'Pass Trail' </span>
+            <span className=" font-bold text-white mt-4   ">Pass Trail </span>
             <span className=" font-bold text-white ">$ 0 </span>
             <div className="h-0.5 mt-2 bg-black"></div>
             <div className="p-2 flex flex-col gap-2 items-center justify-center ">
